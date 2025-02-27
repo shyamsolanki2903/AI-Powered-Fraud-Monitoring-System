@@ -1,11 +1,15 @@
-Frontend :-     cd frontend
+Frontend :-     
+
+                cd frontend
                 npm install
                 Yeh command 
                 cd frontend
                 npm init -y
                 npm install react react-dom
 
-Backend :-  python -m venv env
+Backend :-  
+
+          python -m venv env
 
           Windows:
           env\Scripts\activate
